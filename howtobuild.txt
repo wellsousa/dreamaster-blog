@@ -1,0 +1,4 @@
+
+npx create-react-app genshinimpact-blog
+
+npm install --save react-router-dom
